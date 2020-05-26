@@ -1,4 +1,15 @@
-[
+[{5F5F5FFE
+        "name": "bothDarkDark",
+        "colors": ["#444444", "#5F5F5F"]
+    },
+  {
+        "name": "bothDark1",
+        "colors": ["#444444", "#BA8251"]
+    },
+  {
+        "name": "bothDark2",
+        "colors": ["#444444", "#BA8251", "#444444"]
+    },
     {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
